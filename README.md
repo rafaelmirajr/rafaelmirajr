@@ -1,14 +1,13 @@
 # 👨🏻‍💻 Rafael Mira
 
 **`Engenheiro de Software em andamento ⏳`**
-
-Meu nome é Rafael Mira, tenho 31 anos, estou cursando faculdade de Engenharia de Software.
 <br>
 
 <br>
-Resume
+Meu nome é Rafael Mira, tenho 31 anos e atualmente cursando Engenharia de Software e trabalho como desenvolvedor na SONDA. Meu primeiro contato com desenvolvimento foi durante a Iniciação Científica no INPE, trabalhando com Fortran no desenvolvimento cientifico, mais tarde descobri minha afinidade pelo frontend, onde aprendi HTML, CSS e um pouco de JavaScript e sigo me aperfeiçoando.
 <br>
-Text
+<br>
+Sou apaixonado por tecnologia e tenho diversos hobbies, incluindo jogos, assistir filmes e séries, fazer trilhas e explorar lugares turísticos.
 <br/>
 <br/>
 
